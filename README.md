@@ -13,3 +13,6 @@ My expertise lies in:
 **Welcome to my portfolio**
 
 Explore my projects, where I showcase my passion for data analytics, creative problem-solving, and actionable insights.
+
+**Connect With Me**
+* [Linkedin] (https://www.linkedin.com/in/yani-iben/)

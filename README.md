@@ -15,5 +15,8 @@ My expertise lies in:
 
 Explore my projects, where I showcase my passion for data analytics. Whether it’s understanding customer behavior or optimizing marketing strategies, I enjoy diving deep into the data to uncover patterns and make informed, impactful decisions.
 
+💻 Tech Stack:
+Java R MySQL Python Adobe Figma Adobe Lightroom Canva
+
 **Connect With Me**
 * [Linkedin](https://www.linkedin.com/in/yani-iben/)

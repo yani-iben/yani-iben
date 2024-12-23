@@ -12,7 +12,8 @@ My expertise lies in:
 
 **Welcome to my portfolio**
 
-Explore my projects, where I showcase my passion for data analytics, creative problem-solving, and actionable insights.
+
+Explore my projects, where I showcase my passion for data analytics. Whether it’s understanding customer behavior or optimizing marketing strategies, I enjoy diving deep into the data to uncover patterns and make informed, impactful decisions.
 
 **Connect With Me**
 * [Linkedin](https://www.linkedin.com/in/yani-iben/)

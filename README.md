@@ -1,7 +1,6 @@
 ## Hi, I'm Yani!
 
-I'm a senior at the University of Virginia's McIntire School of Commerce
-Studying Information Technology, Marketing, and Business Analytics.
+I'm a Masters in Data Science student at the University of Virginia. Prior to the MSDS program, I graduated from University of Virginia's McIntire School of Commerce where I studied Information Technology, Marketing, and Business Analytics.
 
 My expertise lies in:
 

@@ -4,9 +4,9 @@ I'm a Masters in Data Science student at the University of Virginia. Prior to th
 
 My expertise lies in:
 
-* Predictive modeling with RapidMiner
-* Querying data using SQL
-* Developing dashboards with Tableau
+* Predictive modeling with Python, R
+* Querying data using SQL or database manipulation in Python
+* Developing dashboards and apps with Tableau, Python, Plotly Dash
 * Data analysis and reporting using Google Sheets and Excel
 
 **Welcome to my portfolio**

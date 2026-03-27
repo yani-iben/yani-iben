@@ -2,16 +2,12 @@
 
 I'm a Masters in Data Science student at the University of Virginia. Prior to the MSDS program, I graduated from University of Virginia's McIntire School of Commerce where I studied Information Technology, Marketing, and Business Analytics.
 
-I bridge the gap between complex technical modeling and executive-level strategy. 
-My expertise lies in:
+## My work focuses on the intersection of data science and strategic decision-making. I specialize in:
 
-*Predictive Modeling: Advanced machine learning using Python (scikit-learn, PyTorch, XGBoost) and R.
-
-*Data Engineering & Querying: Building robust ETL pipelines and querying via SQL and Python.
-
-*Interactive Visualization: Developing full-stack apps and dashboards with Streamlit, Plotly Dash, and Tableau.
-
-*Strategic Analysis: Turning raw data into high-stakes reports using Excel, Google Sheets, and NLP.
+* **Predictive Modeling:** Advanced statistical analysis and ML implementation using **Python** and **R**.
+* **Data Engineering:** Querying complex datasets via **SQL** and performing large-scale database manipulation in **Python**.
+* **Interactive Dashboards:** Developing end-to-end apps and visualizations with **Tableau**, **Python**, and **Plotly Dash**.
+* **Analysis & Reporting:** Delivering actionable insights through **Google Sheets** and **Excel**.
 
 **Welcome to my portfolio**
 
